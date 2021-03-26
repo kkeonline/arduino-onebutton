@@ -9,6 +9,6 @@ long press to switch between working and setting mode.
 See Video here https://www.youtube.com/watch?v=XoLlGbgHw9M
 
 Project using
-1. Arduino board (pro mini 5v)
+1. Arduino board (in vdo using arduino pro mini)
 2. OLED I2C 128x32 (SSD1306)
 3. Push Switch
